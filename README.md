@@ -1,3 +1,4 @@
+# https://github.com/FengYing1314/grok-api-proxy
 # Grok API 代理
 
 一个简单的脚本，为了解决地区受限制无法使用grok的api调用，用作 x.ai API 的代理。此脚本处理用户请求并将所有其他请求转发到 x.ai API。
